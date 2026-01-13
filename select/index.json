@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "アンサイズニア",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-01-13T18:34:44.956714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンサイズニア",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_アンサイズニア_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - アンサイズニア",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_ONE_OK_ROCK_-_アンサイズニア_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンサイズニア",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_アンサイズニア_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンサイズニア - Answer is near",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_アンサイズニア_-_Answer_is_near_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンサイズニア - Answer Is Near",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_アンサイズニア_-_Answer_Is_Near_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンサイズニア",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_アンサイズニア_ONE_OK_ROCK.txt"
+    }
+  ]
+}
